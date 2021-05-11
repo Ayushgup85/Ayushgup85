@@ -6,5 +6,6 @@
 - 🤔 I’m looking for help with Learning Blockchain.
 - 💬 Ask me about MERN stack and Python.
 - ⚡ Fun fact: I'm a food and movie lover.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushgup85&layout=compact" alt="bharatsdruv" /></p>
 
-https://github-readme-stats.vercel.app/api?username=Ayushgup85
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayushgup85&show_icons=true" alt="bharatsdruv" /></p>
