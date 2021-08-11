@@ -1,6 +1,6 @@
 <h1 align="center">Hola, I'm Ayush Gupta! 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushgup85" alt="bharatsdruv" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayushgup85" alt="Ayushgup85" /> </p>
 
 - 🔭 I’m currently working on E-Commerce Project.
 - 🌱 I’m currently learning Machine Learning. 
